@@ -1,3 +1,6 @@
 [submodule "sublimelint"]
 	path = sublimelint
 	url = git://github.com/lunixbochs/sublimelint.git
+[submodule "SublimeCodeIntel"]
+	path = SublimeCodeIntel
+	url = git://github.com/Kronuz/SublimeCodeIntel.git
