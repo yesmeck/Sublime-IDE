@@ -3,7 +3,7 @@
 ## Via Modman
     
 <pre>
-curl http://module-manager.googlecode.com/files/modman-1.1.5 > modman
+curl https://raw.github.com/yesmeck/modman/master/modman > modman
 chmod +x modman
 sudo mv modman /usr/bin
 
