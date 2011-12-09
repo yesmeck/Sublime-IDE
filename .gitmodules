@@ -4,3 +4,6 @@
 [submodule "SublimeCodeIntel"]
 	path = SublimeCodeIntel
 	url = git://github.com/Kronuz/SublimeCodeIntel.git
+[submodule "soda-theme"]
+	path = soda-theme
+	url = https://github.com/buymeasoda/soda-theme.git
