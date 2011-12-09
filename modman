@@ -3,4 +3,5 @@ sublimelint                 Packages/sublimelint
 SublimeCodeIntel            Packages/SublimeCodeIntel
 soda-theme                  Packages/Theme\ -\ Soda
 Global.sublime-settings     Packages/User/Global.sublime-settings
+Base.File.sublime-settings  Packages/User/Base\ File.sublime-settings
 sublime-text-2-git          Packages/sublime-text-2-git
