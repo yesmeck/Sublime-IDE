@@ -1,0 +1,3 @@
+[submodule "sublimelint"]
+	path = sublimelint
+	url = git://github.com/lunixbochs/sublimelint.git
