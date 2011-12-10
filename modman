@@ -1,7 +1,8 @@
-sublime-2-zencoding         Packages/ZendCoding
-sublimelint                 Packages/sublimelint
-SublimeCodeIntel            Packages/SublimeCodeIntel
-soda-theme                  Packages/Theme\ -\ Soda
-Global.sublime-settings     Packages/User/Global.sublime-settings
-Base.File.sublime-settings  Packages/User/Base\ File.sublime-settings
-sublime-text-2-git          Packages/sublime-text-2-git
+sublime-2-zencoding             Packages/ZendCoding
+sublimelint                     Packages/sublimelint
+SublimeCodeIntel                Packages/SublimeCodeIntel
+soda-theme                      Packages/Theme\ -\ Soda
+Global.sublime-settings         Packages/User/Global.sublime-settings
+Base.File.sublime-settings      Packages/User/Base\ File.sublime-settings
+Default.Linux.sublime-keymap    Packages/User/Default\ \(Linux\).sublime-keymap
+sublime-text-2-git              Packages/sublime-text-2-git
