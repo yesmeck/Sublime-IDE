@@ -10,3 +10,6 @@
 [submodule "sublime-text-2-git"]
 	path = sublime-text-2-git
 	url = https://github.com/kemayo/sublime-text-2-git.git
+[submodule "PhpDoc"]
+	path = PhpDoc
+	url = https://github.com/SublimeText/PhpDoc.git

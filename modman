@@ -6,3 +6,4 @@ Global.sublime-settings         Packages/User/Global.sublime-settings
 Base.File.sublime-settings      Packages/User/Base\ File.sublime-settings
 Default.Linux.sublime-keymap    Packages/User/Default\ \(Linux\).sublime-keymap
 sublime-text-2-git              Packages/sublime-text-2-git
+PhpDoc                          Packages/PhpDoc
